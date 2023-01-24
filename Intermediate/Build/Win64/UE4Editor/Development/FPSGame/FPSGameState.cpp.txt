@@ -1,0 +1,11 @@
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Source\FPSGame\Public\FPSGameState.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameStateBase.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameStateBase.generated.h
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSGameState.generated.h
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Source\FPSGame\Public\FPSPlayerController.h
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSPlayerController.generated.h

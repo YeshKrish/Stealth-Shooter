@@ -1,0 +1,3 @@
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Intermediate\Build\Win64\UE4Editor\Development\FPSGame\Definitions.FPSGame.h
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Source\FPSGame\Public\FPSPlayerController.h
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Intermediate\Build\Win64\UE4Editor\Inc\FPSGame\FPSPlayerController.generated.h

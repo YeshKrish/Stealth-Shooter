@@ -1,0 +1,3 @@
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Source\FPSGame\FPSGame.Build.cs
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Source\FPSGame.Target.cs
+F:\Unreal Projects\ShootingGame\SimpleFPSTemplate-master 4.23\Source\FPSGameEditor.Target.cs
